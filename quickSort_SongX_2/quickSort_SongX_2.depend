@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489584260 source:e:\algorithm\quicksort_songx_2\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489232675 source:e:\algorithm\quicksort\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
