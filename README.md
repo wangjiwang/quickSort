@@ -1,6 +1,3 @@
 # quickSort
 
-这是三个版本的quickSort代码实现方式 
-quickSort_wang为最普遍的实现代码
-quickSort_SongX_1为用一重for循环实现
-当定数组是已经排好序的，此时快排的时间复杂度最糟糕为n^2。 故对此情况进行优化，代码为quickSort_SongX_2
+这是三个版本的quickSort代码实现方式.quickSort_wang为最普遍的实现代码,quickSort_SongX_1为用一重for循环实现当定数组是已经排好序的，此时快排的时间复杂度最糟糕为n^2。 故对此情况进行优化，代码为quickSort_SongX_2给1
